@@ -1,11 +1,9 @@
 # easy-golang
-## Golang tutorials for beginners  
-<center>  
-
-![](https://raw.githubusercontent.com/3lackrush/easy-golang/master/Assets/README/go.png)  
-
-</center>  
-
+## Golang tutorial for beginners  
+  
+<div style="text-align: center">
+<img src="https://raw.githubusercontent.com/3lackrush/easy-golang/master/Assets/README/go.png" />  
+</div>  
 
 > ## Table of Contents
 > 1. Install go in different OS 
