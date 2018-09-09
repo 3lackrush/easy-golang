@@ -1,6 +1,6 @@
 # easy-golang
-Golang tutorials for beginners
-![](https://raw.githubusercontent.com/3lackrush/easy-golang/master/Assets/README/golang.png){:height="80px" width="160px"}
+Golang tutorials for beginners  
+![](https://raw.githubusercontent.com/3lackrush/easy-golang/master/Assets/README/go.png)
 > ## Table of Contents
 > 1. Install go in different OS 
 > 2. Package 
