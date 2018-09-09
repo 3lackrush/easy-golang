@@ -1,6 +1,6 @@
 # easy-golang
-Golang tutorials for beginners
-
+## Golang tutorials for beginners
+--- 
 > ## Table of Contents
 > 1. Install go in different OS 
 > 2. Package 
@@ -22,4 +22,4 @@ Golang tutorials for beginners
 > 18. Unit Test
 > 19. TCP Protocol and redis operation
 > 20. Web development and mysql operation
-
+---
