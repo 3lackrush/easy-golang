@@ -38,6 +38,7 @@ D:\project
 > `vender` is used to store third-party packages
 
 ### Set GOPATH in your system environment
+![](https://raw.githubusercontent.com/3lackrush/easy-golang/master/Assets/02_Packages_assets/GoPATH.png)
 
 ### Build your first program
 `Notice: ` change your directory to `$GOPATH` and execute the following command
