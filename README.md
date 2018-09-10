@@ -6,7 +6,7 @@
 
 > ## Table of Contents
 > 1. [Install go](01_Install_Go/README.md) 
-> 2. Package 
+> 2. [Package](02_Package/README.md) 
 > 3. Function 
 > 4. Variables 
 > 5. Data type 
