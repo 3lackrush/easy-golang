@@ -5,7 +5,7 @@
   
 
 > ## Table of Contents
-> 1. [Install go]("./01_Install_Go/README.md") 
+> 1. [Install go](01_Install_Go/README.md) 
 > 2. Package 
 > 3. Function 
 > 4. Variables 
