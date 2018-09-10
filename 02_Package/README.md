@@ -66,7 +66,7 @@ D:.
     └─vendor                      
 ```
 Source code of `add.go`
-```
+```go
 package calc
 
 func Add(a int, b int) int {
@@ -75,7 +75,7 @@ func Add(a int, b int) int {
 ```
 
 Source code of `sub.go`
-```
+```go
 package calc
 
 func Sub(a int, b int) int {
@@ -84,7 +84,7 @@ func Sub(a int, b int) int {
 
 ```
 Source code of `main.go`
-```
+```go
 package main
 
 import (
