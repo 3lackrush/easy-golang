@@ -102,3 +102,8 @@ func main() {
 
 ```
 `If you want to call function from a package. The function name must be uppercase!`
+
+`Notice:` if you want to build the binary to the bin folder. you should build the src in this way.
+```
+go build -o bin/some_pro.exe go_dev/day1/example1
+```
