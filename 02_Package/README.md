@@ -17,7 +17,7 @@ func main() {
 - We put the code with same function in a single directory like we do in python. We call this directory as package.  
 - Package could be referenced by other packages.
 - Main package is used to generate executable file and every program has only one main package.
-- The main purpos of the package is to improve the reusability of the code.
+- The main purpose of the package is to improve the reusability of the code.
 
 ## Directory Structure
 ### The standard directory structure in golang project as follow.
