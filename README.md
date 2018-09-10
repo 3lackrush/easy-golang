@@ -5,7 +5,7 @@
   
 
 > ## Table of Contents
-> 1. Install go in different OS 
+> 1. ["./01_Install_Go/README.md"](Install go in different OS) 
 > 2. Package 
 > 3. Function 
 > 4. Variables 
